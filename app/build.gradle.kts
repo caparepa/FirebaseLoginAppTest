@@ -102,4 +102,10 @@ dependencies {
     //loading
     implementation("com.github.ybq:Android-SpinKit:1.4.0")
 
+    //firebase (for login and stuff)
+    implementation("com.google.firebase:firebase-auth:20.0.2")
+    implementation("androidx.legacy:legacy-support-v4:1.0.0")
+    implementation("com.google.firebase:firebase-database:19.6.0")
+    implementation("com.google.firebase:firebase-storage:19.2.1")
+
 }

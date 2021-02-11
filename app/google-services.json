@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29835049873",
+    "project_id": "fir-loginapptest",
+    "storage_bucket": "fir-loginapptest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29835049873:android:1fd0064bbea7680268b830",
+        "android_client_info": {
+          "package_name": "com.caparepa.firebaseloginapptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29835049873-hms82sa5dug3rlov0dds1neq9igh7i82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb5oYn3BFiNsHCNMlzVMSYipaV74b6RLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29835049873-hms82sa5dug3rlov0dds1neq9igh7i82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
