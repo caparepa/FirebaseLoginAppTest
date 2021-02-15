@@ -105,7 +105,7 @@ dependencies {
 
     //firebase (for login and stuff)
     implementation("com.google.firebase:firebase-bom:26.4.0")
-    implementation("com.google.firebase:firebase-analytics")
+    implementation("com.google.firebase:firebase-analytics:18.0.2")
     implementation("com.google.firebase:firebase-auth:20.0.2")
     implementation("androidx.legacy:legacy-support-v4:1.0.0")
     implementation("com.google.firebase:firebase-database:19.6.0")
